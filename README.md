@@ -18,6 +18,13 @@ npm install
 npm i pdfjs-dist canvas pdfkit sharp
 ```
 # วิธีใช้
+- สร้างโฟล์เดอร์ input และ output
+```
+mkdir input
+```
+```
+mkdir output
+```
 - ใส่รูปหรือไฟล์ pdf ที่ต้องการแปลงลงในโฟลเดอร์ input
 - เริ่มรันโปรเจกต์
 ```
